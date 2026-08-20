@@ -39,21 +39,22 @@
   <li>🌱 I am currently improving my skills in in AI/ML, Data Engineering, ETL workflows, Power BI, SQL Server, and full-stack development.</li>
   <li>📊 I enjoy working with data cleaning, dashboard design, statistical analysis, and turning raw data into insights.</li>
   <li>💼 I am seeking internship opportunities in Data Analytics, Data Engineering, AI/ML Engineering, Business Intelligence, and Software Engineering.</li>
-  <li>🌐 E-mail: <a href="mailto:sithuminirasha20@gmail.com">alt="Sithumini Ganegoda Email" /> </a></li>
-</ul>
+  <li>🌐 E-mail: <a href="mailto:sithuminirasha20@gmail.com"> </a></li>
+</ul>"
 
 </td>
   </tr>
 </table>
 
 ## 🧠 My Focus Areas
+<p align="center">
  <li>Data Analytics</li>
  <li>Data Engineering</li>
  <li>Machine Learning</li>
  <li>AI/ML Engineering</li>
  <li>Power BI Dashboard</li>
  <li>Business Intelligence</li>
-
+</p>
 
 ## 🛠️ Tech Stack
 
