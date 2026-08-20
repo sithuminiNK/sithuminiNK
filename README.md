@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sithuminiNK&label=PROFILE%20VIEWS&color=00FF9C&style=flat-square" />
 </p>
-
+</div>
 ---
 
 ## 📌 About Me
