@@ -1,5 +1,3 @@
-# 👩🏻‍💻 Sithumini Ganegoda
-
 <div align="center">
 
   <h1 align="center">
@@ -28,17 +26,6 @@
 
 and a love for data.</sub>
 </p>
-
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9C&labelColor=0D1117" alt="Data Analytics" />
-<img src="https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF9C&labelColor=0D1117" alt="Data Engineering" />
-<img src="https://img.shields.io/badge/BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF9C&labelColor=0D1117" alt="BI" />
-<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=0D1117" alt="Machine Learning" />
-
-</div>
 
 <p align="center">
   <a href="https://github.com/sithuminiNK" target="_blank">
