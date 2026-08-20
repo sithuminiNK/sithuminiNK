@@ -39,7 +39,7 @@
   <li>🌱 I am currently improving my skills in in AI/ML, Data Engineering, ETL workflows, Power BI, SQL Server, and full-stack development.</li>
   <li>📊 I enjoy working with data cleaning, dashboard design, statistical analysis, and turning raw data into insights.</li>
   <li>💼 I am seeking internship opportunities in Data Analytics, Data Engineering, AI/ML Engineering, Business Intelligence, and Software Engineering.</li>
-  <li>🌐 LinkedIn: <a href="https://linkedin.com/in/sithumini-ganegoda">linkedin.com/in/sithumini-ganegoda</a></li>
+  <li>🌐 E-mail: <a href="mailto:sithuminirasha20@gmail.com">alt="Sithumini Ganegoda Email" /> </a></li>
 </ul>
 
 </td>
@@ -47,12 +47,17 @@
 </table>
 
 ## 🧠 My Focus Areas
+ <li>Data Analytics</li>
+ <li>Data Engineering</li>
+ <li>Machine Learning</li>
+ <li>AI/ML Engineering</li>
+ <li>Power BI Dashboard</li>
+ <li>Business Intelligence</li>
 
 
+## 🛠️ Tech Stack
 
-## 🛠️ Languages & Tools
-
-### 💻 Programming
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" alt="Python" /> Python &nbsp;&nbsp;&nbsp;
@@ -111,17 +116,15 @@
 
 ## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sithumini-ganegoda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="Sithumini Ganegoda LinkedIn" />
-  </a>
-  <a href="mailto:sithuminirasha20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Sithumini Ganegoda Email" />
-  </a>
-  <a href="https://github.com/sithuminiNK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View%20Code-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Sithumini Ganegoda GitHub" />
-  </a>
+<p>
+
+📧 **Email:** **sithuminirasha20@gmail.com**
+
+💼 **LinkedIn:** www.linkedin.com/in/sithumini-ganegoda
+
+💻 **GitHub:** https://github.com/sithuminiNK
 </p>
+
 <br/>
 
 ## 💬 Quote
@@ -139,13 +142,5 @@
 </p>
 
 </div>
-
-
-<div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  />
-</div>
-
 
 
