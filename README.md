@@ -24,17 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=sithuminiNK&label=PROFILE%20VIEWS&color=00FF9C&style=flat-square" />
 </p>
 
-and a love for data.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sithuminiNK" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=sithuminiNK&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge" alt="Sithumini Ganegoda profile views" />
-  </a>
-</p>
-
-</div>
-
 ---
 
 ## 📌 About Me
