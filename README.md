@@ -1,5 +1,11 @@
 # 👩🏻‍💻 Sithumini Ganegoda
 
+<div align="center">
+
+  <h1 align="center">
+  Hey 👋,<span> I'm Sithumini Ganegoda</span>
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate;Data+Analytics+%7C+Data+Engineering;Business+Intelligence+%7C+Machine+Learning;Turning+Data+into+Decisions+%F0%9F%9A%80" />
 </p>
@@ -20,279 +26,146 @@
   <img src="https://komarev.com/ghpvc/?username=sithuminiNK&label=PROFILE%20VIEWS&color=00FF9C&style=flat-square" />
 </p>
 
+and a love for data.</sub>
+</p>
+
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00FF9C&labelColor=0D1117" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF9C&labelColor=0D1117" alt="Data Engineering" />
+<img src="https://img.shields.io/badge/BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00FF9C&labelColor=0D1117" alt="BI" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C&labelColor=0D1117" alt="Machine Learning" />
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/sithuminiNK" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sithuminiNK&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge" alt="Sithumini Ganegoda profile views" />
+  </a>
+</p>
+
+</div>
+
 ---
 
-## 🌌 `whoami`
+## 📌 About Me
 
-> **Data Science undergraduate** passionate about transforming raw data into meaningful insights, intelligent solutions, and interactive experiences.
+<table width="100%">
+  <tr>
+    <td>
 
-🎓 BSc (Hons) Information Technology — **Data Science**
-
-📍 SLIIT, Sri Lanka
-
-💡 Interested in **Data Analytics, Data Engineering, Business Intelligence & AI/ML**
-
-🔭 Building projects around **ETL, Data Warehousing, Machine Learning & BI**
-
-🌱 Currently strengthening my skills in **SQL, Power BI, Python, ETL & AI/ML**
-
-💼 Open to **Internship Opportunities**
-
----
-
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Data Analytics
-
-* Data Cleaning & Preparation
-* Exploratory Data Analysis
-* Statistical Analysis
-* Data Visualization
-* Business Insights
-* KPI Analysis
+<ul>
+  <li>🎓 I am a BSc (Hons) Information Technology undergraduate specializing in Data Science at SLIIT, Sri Lanka.</li>
+  <li>🔭 I am currently working on ETL pipelines, data warehouses, BI dashboards, and machine learning projects.</li>
+  <li>🌱 I am currently improving my skills in in AI/ML, Data Engineering, ETL workflows, Power BI, SQL Server, and full-stack development.</li>
+  <li>📊 I enjoy working with data cleaning, dashboard design, statistical analysis, and turning raw data into insights.</li>
+  <li>💼 I am seeking internship opportunities in Data Analytics, Data Engineering, AI/ML Engineering, Business Intelligence, and Software Engineering.</li>
+  <li>🌐 E-mail: <a href="mailto:sithuminirasha20@gmail.com">sithuminirasha20@gmail.com</a></li>
+</ul>"
 
 </td>
-
-<td width="50%">
-
-### 🏗️ Data Engineering
-
-* ETL / ELT Pipelines
-* Data Warehousing
-* Dimensional Modelling
-* SQL Development
-* Data Transformation
-* Data Integration
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI / Machine Learning
-
-* Classification
-* Regression
-* Feature Engineering
-* Model Evaluation
-* Scikit-learn
-* Predictive Analytics
-
-</td>
-
-<td width="50%">
-
-### 📈 Business Intelligence
-
-* Power BI Dashboards
-* Interactive Reports
-* Data Storytelling
-* Power Query
-* DAX
-* KPI Dashboards
-
-</td>
-</tr>
+  </tr>
 </table>
 
+## 🧠 My Focus Areas
+
+<p align="center">
+ <li>Data Analytics</li>
+ <li>Data Engineering</li>
+ <li>Machine Learning</li>
+ <li>AI/ML Engineering</li>
+ <li>Power BI Dashboard</li>
+ <li>Business Intelligence</li>
+</p>
+<br>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" alt="Python" /> Python &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="30" alt="Java" /> Java &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="30" alt="JavaScript" /> JavaScript;
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="30" alt="R" /> R &nbsp;&nbsp;&nbsp;
+</p>
+
 ---
 
-## 🧠 Tech Universe
+### 📊 Data / BI / ML
 
-### 👨🏻‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,r" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" alt="Pandas" /> Pandas
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" alt="NumPy" /> NumPy
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="30" alt="Scikit-learn" /> Scikit-learn &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="30" alt="Power BI" /> Power BI &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" width="30" alt="SQL Server" /> SQL Server &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="30" alt="Excel" /> Excel
 </p>
 
-### 📊 Data • BI • ML
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-<img src="https://img.icons8.com/color/48/power-bi.png" width="48"/>
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/>
+### 🌐 Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="30" alt="React" /> React.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="30" alt="Next.js" /> Next.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="30" alt="Node.js" /> Node.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="30" alt="Express.js" /> Express.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="30" alt="Tailwind CSS" /> Tailwind CSS
 </p>
 
-**Python • Pandas • NumPy • Scikit-learn • Power BI • SQL Server • Excel**
-
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-</p>
+---
 
 ### 🗄️ Databases
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30" alt="MySQL" /> MySQL &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="30" alt="MongoDB" /> MongoDB &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="30" alt="PostgreSQL" /> PostgreSQL
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="30" alt="Git" /> Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" alt="GitHub" /> GitHub &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="30" alt="VS Code" /> VS Code
+</p>
+<br/>
+
+
+
+## 🔗 Connect with Me
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+📧 **Email:** **sithuminirasha20@gmail.com**
+
+💼 **LinkedIn:** www.linkedin.com/in/sithumini-ganegoda
+
+💻 **GitHub:** https://github.com/sithuminiNK
 </p>
 
-### 🛠️ Tools
+<br/>
+
+## 💬 Quote
+
+<div align="center">
+
+<h3>
+  "Turning raw data into meaningful insights."
+</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <sub>
+    Data Science • Data Analytics • Data Engineering • Business Intelligence • Machine Learning
+  </sub>
 </p>
 
----
+</div>
 
-## 🚀 Featured Work
-
-### 📊 Business Intelligence & Data Warehouse
-
-> Designing data pipelines and transforming transactional data into analytical models and interactive dashboards.
-
-**Focus:**
-`ETL` `Data Warehouse` `Dimensional Modelling` `SQL` `Power BI`
-
----
-
-### 🏍️ Motorbike Spare Parts & Inventory System
-
-> A full-stack management system designed to improve spare-parts inventory tracking, stock monitoring and business operations.
-
-**Focus:**
-`React` `Node.js` `Express.js` `MongoDB` `REST API`
-
----
-
-### 🤖 Machine Learning Projects
-
-> Developing predictive models and experimenting with classification, feature engineering and model evaluation.
-
-**Focus:**
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
-
----
-
-## 📚 Currently Learning
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🏗️  Data Engineering        ███████████████░░░   85%       │
-│  📊  Power BI / BI            ████████████████░░░   88%       │
-│  🐍  Python / Data Science    █████████████████░   90%       │
-│  🗄️  SQL & Databases          ████████████████░░░   87%       │
-│  🤖  AI / Machine Learning    ██████████████░░░░   78%       │
-│  🌐  Full-Stack Development   █████████████░░░░░   72%       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-> These percentages represent my current learning focus, not formal skill ratings.
-
----
-
-## 🎯 My Career Direction
-
-```text
-Data Science
-     │
-     ├── 📊 Data Analytics
-     │
-     ├── 🏗️ Data Engineering
-     │
-     ├── 📈 Business Intelligence
-     │
-     └── 🤖 AI / Machine Learning
-```
-
-I am especially interested in opportunities where I can work with **real-world data, analytical problems and intelligent systems** while continuously developing my technical and business skills.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithuminiNK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuminiNK&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sithuminiNK&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-</p>
-
----
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sithuminiNK/sithuminiNK/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sithuminiNK&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📌 2026 Goals
-
-* [ ] 🚀 Complete more Data Science projects
-* [ ] 📊 Build advanced Power BI dashboards
-* [ ] 🏗️ Build production-style ETL pipelines
-* [ ] 🗄️ Improve SQL & Data Warehouse expertise
-* [ ] 🤖 Build practical Machine Learning projects
-* [ ] ☁️ Strengthen Cloud & Data Engineering skills
-* [ ] 💼 Secure a Data/BI/AI related internship
-* [ ] 🌐 Build a strong professional portfolio
-
----
-
-## 💼 Open To
-
-<p align="center">
-
-`Data Analyst` • `Data Engineer` • `BI Intern` • `AI/ML Intern` • `Software Engineer Intern`
-
-</p>
-
-<p align="center">
-  <b>Looking for opportunities to learn, build, collaborate and create real-world impact.</b>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:sithuminirasha20@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sithumini-ganegoda">
-<img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
-
-<a href="https://github.com/sithuminiNK">
-<img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💚 `Turning Data → Insights → Decisions → Impact`
-
-</p>
-
-<p align="center">
-  <sub>Built with curiosity, consistency and a love for data.</sub>
-</p>
