@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sithumini Ganegoda.</h1>
-<!--
-**sithuminiNK/sithuminiNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## 📌 About Me
 
 <table width="100%">
@@ -21,6 +17,7 @@
 </td>
   </tr>
 </table>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -31,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
