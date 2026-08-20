@@ -48,9 +48,7 @@
 
 ## 🧠 My Focus Areas
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+Visualization;Data+Warehousing+%26+ETL+Pipelines;Business+Intelligence+(Power+BI)%2C+DAX;Machine+Learning+%26+Predictive+Modeling;Dashboard+Design+%26+Excel+BI" alt="Sithumini Ganegoda focus areas typing" />
-</p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -142,16 +140,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Building+data-driven+solutions;Exploring+analytics%2C+BI%2C+and+engineering;Learning+and+improving+every+day"
-    alt="Sithumini Ganegoda animated typing footer"
-  />
-</div>
-
-<br>
 
 <div align="center">
   <img
